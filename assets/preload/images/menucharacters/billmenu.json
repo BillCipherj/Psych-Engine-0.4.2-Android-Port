@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Full Bill Phase 2 Idle",
+	"image": "billmenu",
+	"position": [
+		103,
+		60
+	],
+	"scale": 0.85,
+	"confirm_anim": "M Dad Idle"
+}

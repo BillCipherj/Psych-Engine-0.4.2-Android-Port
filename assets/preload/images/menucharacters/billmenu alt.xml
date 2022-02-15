@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="billmenu alt.png"><SubTexture name="Full Bill Phase 2 Idle0000" x="1096" y="0" width="388" height="382" frameX="-31" frameY="-28" frameWidth="462" frameHeight="437" />
+<SubTexture name="Full Bill Phase 2 Idle0001" x="0" y="767" width="391" height="381" frameX="-33" frameY="-31" frameWidth="462" frameHeight="437" />
+<SubTexture name="Full Bill Phase 2 Idle0002" x="391" y="767" width="394" height="380" frameX="-33" frameY="-32" frameWidth="462" frameHeight="437" />
+<SubTexture name="Full Bill Phase 2 Idle0003" x="785" y="767" width="395" height="379" frameX="-31" frameY="-31" frameWidth="462" frameHeight="437" />
+<SubTexture name="Full Bill Phase 2 Idle0004" x="1484" y="0" width="383" height="379" frameX="-26" frameY="-29" frameWidth="462" frameHeight="437" />
+<SubTexture name="Full Bill Phase 2 Idle0005" x="0" y="1148" width="384" height="379" frameX="-24" frameY="-27" frameWidth="462" frameHeight="437" />
+<SubTexture name="Full Bill Phase 2 Idle0006" x="718" y="0" width="378" height="383" frameX="-23" frameY="-23" frameWidth="462" frameHeight="437" />
+<SubTexture name="Full Bill Phase 2 Idle0007" x="0" y="384" width="362" height="383" frameX="-23" frameY="-22" frameWidth="462" frameHeight="437" />
+<SubTexture name="Full Bill Phase 2 Idle0008" x="0" y="0" width="360" height="384" frameX="-22" frameY="-20" frameWidth="462" frameHeight="437" />
+<SubTexture name="Full Bill Phase 2 Idle0009" x="362" y="384" width="355" height="383" frameX="-22" frameY="-19" frameWidth="462" frameHeight="437" />
+<SubTexture name="Full Bill Phase 2 Idle0010" x="717" y="384" width="356" height="383" frameX="-22" frameY="-19" frameWidth="462" frameHeight="437" />
+<SubTexture name="Full Bill Phase 2 Idle0011" x="360" y="0" width="358" height="384" frameX="-23" frameY="-18" frameWidth="462" frameHeight="437" />
+<SubTexture name="Full Bill Phase 2 Idle0012" x="1096" y="382" width="373" height="381" frameX="-26" frameY="-26" frameWidth="462" frameHeight="437" />
+</TextureAtlas>
